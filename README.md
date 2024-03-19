@@ -1,5 +1,5 @@
-### Hi there 👋
-## Welcome to my GitHub profile.
+## Hi there 👋
+### Welcome to my GitHub profile.
 
 
 [![My GitHub stats](https://github-readme-stats-hallam-saunders-projects.vercel.app/api?username=HallamSaunders&theme=dark)](https://github.com/HallamSaunders/github-readme-stats)\
