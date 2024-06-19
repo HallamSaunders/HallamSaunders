@@ -11,7 +11,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on an encrypted chat server using Java.
+- 🔭 I’m currently working on a gym routine and workout tracker using React Native, Expo and Firebase.
 - 🌱 I’m currently studying Computer Science at the University of Surrey.
 - :chart_with_upwards_trend: I'm aspiring to work in the cyber security sector.
 - 📫 Email me at: hallambsaunders@gmail.com.
