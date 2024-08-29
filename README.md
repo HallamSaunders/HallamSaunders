@@ -11,12 +11,12 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on an e-commerce website for an artist.
-- 🌱 I’m currently studying Computer Science at the University of Surrey.
-- :chart_with_upwards_trend: I'm aspiring to work in the cyber security sector.
+- 🔭 I’m currently working on an study-support app for iOS/Android.
+- 🌱 I’m currently studying Computer Science.
 - 📫 Email me at: hallambsaunders@gmail.com.
 
 <!--
+- :chart_with_upwards_trend: I'm aspiring to work in the cyber security sector.
 - ⚡ Fun fact: ... 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
