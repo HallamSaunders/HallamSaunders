@@ -11,7 +11,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on an study-support app for iOS/Android.
+- 🔭 I’m currently working on a granular synthesis sampler virtual instrument using the JUCE framework.
 - 🌱 I’m currently studying Computer Science.
 - 📫 Email me at: hallambsaunders@gmail.com.
 
