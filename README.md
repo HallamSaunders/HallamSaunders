@@ -3,7 +3,7 @@
 
 
 [![My GitHub stats](https://github-readme-stats-hallam-saunders-projects.vercel.app/api?username=HallamSaunders&theme=dark)](https://github.com/HallamSaunders/github-readme-stats)\
-[![Top Langs](https://github-readme-stats-hallam-saunders-projects.vercel.app/api/top-langs/?username=HallamSaunders&layout=donut&theme=dark&hide=shaderlab,hlsl&langs_count=7)](https://github.com/HallamSaunders/github-readme-stats)
+[![Top Langs]("https://github-readme-stats-hallam-saunders-projects.vercel.app/api/top-langs/?username=HallamSaunders&layout=donut&theme=dark&hide=shaderlab,hlsl,Jupyter Notebook&langs_count=7)"](https://github.com/HallamSaunders/github-readme-stats)
 
 <!--
 **HallamSaunders/HallamSaunders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
