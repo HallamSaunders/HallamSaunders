@@ -1,7 +1,3 @@
-## Hi there 👋
-### Welcome to my GitHub profile.
-
-
 [![My GitHub stats](https://github-readme-stats-hallam-saunders-projects.vercel.app/api?username=HallamSaunders&theme=dark)](https://github.com/HallamSaunders/github-readme-stats)\
 [![Top Langs](https://github-readme-stats-hallam-saunders-projects.vercel.app/api/top-langs/?username=HallamSaunders&layout=donut&theme=dark&hide=shaderlab,hlsl&langs_count=7&exclude_repo=github-readme-stats,obsidian-vaults)](https://github.com/HallamSaunders/github-readme-stats)
 
@@ -11,8 +7,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working a project exploring C to Rust translation.
-- 🌱 I’m currently studying Computer Science.
+- 🔭 I’m currently working a project exploring C to Rust translation, leveraging LLMs.
+- 🌱 I’m currently studying for a Master's in Computer Science.
 - 📫 Email me at: hallambsaunders@gmail.com.
 
 <!--
