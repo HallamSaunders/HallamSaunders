@@ -11,7 +11,7 @@
 <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=HallamSaunders&theme=tokyonight&hide_border=false" width="400"/>-->
 <br/>
 
-<ul>
+<ul style="list-style: none; padding-left: 0;">
   <li>I'm currently working on a research project exploring C to Rust translation, leveraging LLMs!</li>
   <li>I'm studying for a Master's in Computer Science.</li>
   <li>Email me at: <a href='mailto:hallambsaunders@gmail.com'>hallambsaunders@gmail.com</a></li>
