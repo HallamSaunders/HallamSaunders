@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HallamSaunders&theme=tokyonight&hide_border=false" width="400"/>
+<!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=HallamSaunders&theme=tokyonight&hide_border=false" width="400"/>-->
 
 </div>
 
