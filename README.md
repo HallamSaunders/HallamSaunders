@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats-hallam-saunders-projects.vercel.app/api/top-langs/?username=HallamSaunders&theme=tokyonight&show_icons=true&hide_border=false&layout=donut&hide=shaderlab,hlsl,jupyter%20notebook&langs_count=7&exclude_repo=github-readme-stats" width="400"/>
+<img src="https://github-readme-stats-hallam-saunders-projects.vercel.app/api/top-langs/?username=HallamSaunders&theme=tokyonight&show_icons=true&hide_border=false&layout=donut&hide=shaderlab,hlsl,jupyter%20notebook,CSS&langs_count=10&exclude_repo=github-readme-stats" width="400"/>
 
 <br/>
 
