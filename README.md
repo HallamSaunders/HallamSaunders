@@ -8,7 +8,7 @@
 
 <br/>
 
-(excluding shell because it dominates...)
+(excluding Shell because it dominates...)
 
 <br/>
 
